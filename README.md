@@ -36,6 +36,8 @@
 <li>https://learnjs.vlpt.us/ 벨로퍼트와 함께하는 모던 자바스크립트</li>
 <li>https://react.vlpt.us/ 벨로퍼트와 함께하는 모던 리액트</li>
 <li>https://thebook.io/080203/ 리액트를 다루는 기술</li>
+  <li>https://www.youtube.com/c/노마드코더NomadCoders 노마드 코더 유튜브</li>
+  <li>https://nomadcoders.co 노마드 코더 아카데미</li>
 </ul>
 
 </p>
