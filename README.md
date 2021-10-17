@@ -33,6 +33,8 @@
 <p>
 <h2>[강의]</h2>
 <ul> 
+  <li>https://opentutorials.org/course/3084 생활코딩 WEB1 HTML & Internet</li>
+  <li>https://opentutorials.org/course/3086 생활코딩 WEB2 CSS</li>
 <li>https://learnjs.vlpt.us/ 벨로퍼트와 함께하는 모던 자바스크립트</li>
 <li>https://react.vlpt.us/ 벨로퍼트와 함께하는 모던 리액트</li>
 <li>https://thebook.io/080203/ 리액트를 다루는 기술</li>
