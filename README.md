@@ -7,7 +7,7 @@ https://github.com/Integerous/goQuality-dev-contents 고퀄리티 개발 컨텐�
 [프론트엔드]
 https://2020.stateofjs.com/en-us/technologies/front-end-frameworks/ State of JS 2020
 
-https://github.com/velopert 벨로퍼트님 블로그
+https://github.com/velopert 벨로퍼트님 블로그 <br>
 https://velog.io/@ansrjsdn/프론트엔드-추천-자료-모음 프론트엔드 추천 자료 모음
 https://jbee.io/essay/for_junior_frontend_developer/ 신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?
 
