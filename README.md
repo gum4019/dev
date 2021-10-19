@@ -65,6 +65,7 @@
   <li>https://naver-career.gitbook.io/kr/tech/front-end 네이버 프론트엔드 기술 직무 안내</li>
   <li>https://jobs.smartrecruiters.com/banksalad/743999758620529 뱅크샐러드 프론트엔드 채용 공고</li>
   <li>https://www.wanted.co.kr/wd/74492 토스 프론트엔드 채용 공고</li>
+  <li>https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38140283 차이 프론트엔드 채용 공고</li>
   <li>https://brunch.co.kr/ 스타트업 맵</li>
   <li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
 </ul>
