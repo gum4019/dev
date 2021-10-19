@@ -51,6 +51,8 @@
   <li>https://tech.kakao.com/tag/frontend/ 카카오 프론트엔드</li>
   <li>https://engineering.linecorp.com/ko/blog/tag/frontend-ko/ 라인 프론트엔드</li>
   <li>https://techblog.woowahan.com/ 배달의민족</li>
+  <li>https://toss.tech/ 토스 프론트엔드</li>
+  <https://blog.banksalad.com/tech/ 뱅크샐러드</li>
 <li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
 </ul>
 
@@ -60,6 +62,8 @@
 <h2>[취업]</h2>
 <ul>
   <li>https://naver-career.gitbook.io/kr/tech/front-end 네이버 프론트엔드 기술 직무 안내</li>
+  <li>https://brunch.co.kr/ 스타트업 맵</li>
+  <li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
 </ul>
 </p>
 
