@@ -66,7 +66,9 @@
   <li>https://jobs.smartrecruiters.com/banksalad/743999758620529 뱅크샐러드 프론트엔드 채용 공고</li>
   <li>https://www.wanted.co.kr/wd/74492 토스 프론트엔드 채용 공고</li>
   <li>https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=38140283 차이 프론트엔드 채용 공고</li>
+  <li>https://programmers.co.kr/competitions/1582/2021-web-fe-second 프로그래머스 데브 매치 웹 프론트엔드</li>
   <li>https://brunch.co.kr/ 스타트업 맵</li>
+  <li>https://team.daangn.com/jobs/4298115003/ 당근마켓 웹 프론트엔드</li>
   <li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
 </ul>
 </p>
