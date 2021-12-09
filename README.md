@@ -54,7 +54,8 @@
   <li>https://toss.tech/ 토스 프론트엔드</li>
   <https://blog.banksalad.com/tech/ 뱅크샐러드</li>
   <li>https://blog.kakaopay.com/category/%EA%B8%B0%EC%97%85%EB%AC%B8%ED%99%94 카카오페이</li>
-<li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
+  <li>https://brunch.co.kr/@sicle-official/35 기술 블로그 모음</li>
+  <li>https://www.inflearn.com/pages 인프런 뉴스</li>
 </ul>
 
 </p>
